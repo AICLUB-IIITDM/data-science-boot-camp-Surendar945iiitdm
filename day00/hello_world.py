@@ -2,4 +2,4 @@
 
 # write your logic to implement hello world function herec
 def hello():
-    print("Hello world")
+    print("Hello World")
